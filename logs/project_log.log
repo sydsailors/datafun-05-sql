@@ -5,3 +5,9 @@
 2025-06-02 15:36:42.440 | ERROR    | __main__:log_example:56 - This is an example error message.
 2025-06-02 15:36:42.440 | INFO     | __main__:main:68 - View the log output at logs/project_log.log
 2025-06-02 15:36:42.441 | INFO     | __main__:main:69 - EXITING utils_logger.py.
+2025-06-03 10:29:00.734 | INFO     | utils_logger:<module>:41 - Logging to file: logs/project_log.log
+2025-06-03 10:29:00.735 | INFO     | __main__:main:38 - Starting database setup...
+2025-06-03 10:29:00.736 | INFO     | __main__:main:52 - Connected to database: /Users/sydneysailors/datafun-05-sql/data/db.sqlite
+2025-06-03 10:29:00.736 | ERROR    | __main__:execute_sql_file:32 - Failed to execute /Users/sydneysailors/datafun-05-sql/sql_create/01_drop_tables.sql: [Errno 2] No such file or directory: '/Users/sydneysailors/datafun-05-sql/sql_create/01_drop_tables.sql'
+2025-06-03 10:29:00.737 | ERROR    | __main__:main:62 - Error during database setup: [Errno 2] No such file or directory: '/Users/sydneysailors/datafun-05-sql/sql_create/01_drop_tables.sql'
+2025-06-03 10:29:00.737 | INFO     | __main__:main:65 - Database connection closed.
