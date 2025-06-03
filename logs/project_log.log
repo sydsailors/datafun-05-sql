@@ -11,3 +11,11 @@
 2025-06-03 10:29:00.736 | ERROR    | __main__:execute_sql_file:32 - Failed to execute /Users/sydneysailors/datafun-05-sql/sql_create/01_drop_tables.sql: [Errno 2] No such file or directory: '/Users/sydneysailors/datafun-05-sql/sql_create/01_drop_tables.sql'
 2025-06-03 10:29:00.737 | ERROR    | __main__:main:62 - Error during database setup: [Errno 2] No such file or directory: '/Users/sydneysailors/datafun-05-sql/sql_create/01_drop_tables.sql'
 2025-06-03 10:29:00.737 | INFO     | __main__:main:65 - Database connection closed.
+2025-06-03 10:35:10.504 | INFO     | utils_logger:<module>:41 - Logging to file: logs/project_log.log
+2025-06-03 10:35:10.505 | INFO     | __main__:main:38 - Starting database setup...
+2025-06-03 10:35:10.507 | INFO     | __main__:main:52 - Connected to database: /Users/sydneysailors/datafun-05-sql/data/db.sqlite
+2025-06-03 10:35:10.515 | INFO     | __main__:execute_sql_file:30 - Executed: /Users/sydneysailors/datafun-05-sql/sql_create/01_drop_tables.sql
+2025-06-03 10:35:10.522 | INFO     | __main__:execute_sql_file:30 - Executed: /Users/sydneysailors/datafun-05-sql/sql_create/02_create_tables.sql
+2025-06-03 10:35:10.536 | INFO     | __main__:execute_sql_file:30 - Executed: /Users/sydneysailors/datafun-05-sql/sql_create/03_insert_records.sql
+2025-06-03 10:35:10.536 | INFO     | __main__:main:60 - Database setup completed successfully.
+2025-06-03 10:35:10.537 | INFO     | __main__:main:65 - Database connection closed.
