@@ -25,3 +25,11 @@
 2025-06-03 10:38:34.322 | INFO     | __main__:execute_sql_file:27 - Executed: /Users/sydneysailors/datafun-05-sql/sql_features/01_new_column_pub_age.sql
 2025-06-03 10:38:34.322 | INFO     | __main__:main:58 - Feature queries execution completed successfully.
 2025-06-03 10:38:34.324 | INFO     | __main__:main:63 - Database connection closed.
+2025-06-03 10:43:23.416 | INFO     | utils_logger:<module>:41 - Logging to file: logs/project_log.log
+2025-06-03 10:43:23.417 | INFO     | __main__:main:38 - Starting database setup...
+2025-06-03 10:43:23.424 | INFO     | __main__:main:52 - Connected to database: /Users/sydneysailors/datafun-05-sql/data/db.sqlite
+2025-06-03 10:43:23.447 | INFO     | __main__:execute_sql_file:30 - Executed: /Users/sydneysailors/datafun-05-sql/sql_create/01_drop_tables.sql
+2025-06-03 10:43:23.462 | INFO     | __main__:execute_sql_file:30 - Executed: /Users/sydneysailors/datafun-05-sql/sql_create/02_create_tables.sql
+2025-06-03 10:43:23.480 | INFO     | __main__:execute_sql_file:30 - Executed: /Users/sydneysailors/datafun-05-sql/sql_create/03_insert_records.sql
+2025-06-03 10:43:23.480 | INFO     | __main__:main:60 - Database setup completed successfully.
+2025-06-03 10:43:23.486 | INFO     | __main__:main:65 - Database connection closed.
