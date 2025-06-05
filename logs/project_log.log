@@ -33,3 +33,25 @@
 2025-06-03 10:43:23.480 | INFO     | __main__:execute_sql_file:30 - Executed: /Users/sydneysailors/datafun-05-sql/sql_create/03_insert_records.sql
 2025-06-03 10:43:23.480 | INFO     | __main__:main:60 - Database setup completed successfully.
 2025-06-03 10:43:23.486 | INFO     | __main__:main:65 - Database connection closed.
+2025-06-05 15:36:08.163 | INFO     | utils_logger:<module>:41 - Logging to file: logs/project_log.log
+2025-06-05 15:36:08.163 | INFO     | __main__:main:38 - Starting database setup...
+2025-06-05 15:36:08.165 | INFO     | __main__:main:52 - Connected to database: /Users/sydneysailors/datafun-05-sql/data/db.sqlite
+2025-06-05 15:36:08.175 | INFO     | __main__:execute_sql_file:30 - Executed: /Users/sydneysailors/datafun-05-sql/sql_create/01_drop_tables.sql
+2025-06-05 15:36:08.182 | INFO     | __main__:execute_sql_file:30 - Executed: /Users/sydneysailors/datafun-05-sql/sql_create/02_create_tables.sql
+2025-06-05 15:36:08.186 | INFO     | __main__:execute_sql_file:30 - Executed: /Users/sydneysailors/datafun-05-sql/sql_create/03_insert_records.sql
+2025-06-05 15:36:08.186 | INFO     | __main__:main:60 - Database setup completed successfully.
+2025-06-05 15:36:08.186 | INFO     | __main__:main:65 - Database connection closed.
+2025-06-05 15:48:29.656 | INFO     | utils_logger:<module>:41 - Logging to file: logs/project_log.log
+2025-06-05 15:48:29.657 | INFO     | __main__:main:38 - Starting database setup...
+2025-06-05 15:48:29.658 | INFO     | __main__:main:52 - Connected to database: /Users/sydneysailors/datafun-05-sql/data/project.sqlite3
+2025-06-05 15:48:29.662 | INFO     | __main__:execute_sql_file:30 - Executed: /Users/sydneysailors/datafun-05-sql/sql_create/01_drop_tables.sql
+2025-06-05 15:48:29.677 | INFO     | __main__:execute_sql_file:30 - Executed: /Users/sydneysailors/datafun-05-sql/sql_create/02_create_tables.sql
+2025-06-05 15:48:29.682 | INFO     | __main__:execute_sql_file:30 - Executed: /Users/sydneysailors/datafun-05-sql/sql_create/03_insert_records.sql
+2025-06-05 15:48:29.683 | INFO     | __main__:main:60 - Database setup completed successfully.
+2025-06-05 15:48:29.684 | INFO     | __main__:main:65 - Database connection closed.
+2025-06-05 17:00:20.200 | INFO     | utils_logger:<module>:41 - Logging to file: logs/project_log.log
+2025-06-05 17:00:20.200 | INFO     | __main__:main:36 - Starting feature queries execution...
+2025-06-05 17:00:20.203 | INFO     | __main__:main:52 - Connected to database: /Users/sydneysailors/datafun-05-sql/data/project.sqlite3
+2025-06-05 17:00:20.211 | INFO     | __main__:execute_sql_file:27 - Executed: /Users/sydneysailors/datafun-05-sql/sql_features/01_new_column_pub_age.sql
+2025-06-05 17:00:20.212 | INFO     | __main__:main:58 - Feature queries execution completed successfully.
+2025-06-05 17:00:20.212 | INFO     | __main__:main:63 - Database connection closed.
