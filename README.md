@@ -68,3 +68,9 @@ git push -u origin main
   - `db03_queries.py`
   - `utils_logger.py`
 
+## Screenshots
+
+### Authors table
+![Image of authors table](authors.png)
+
+
