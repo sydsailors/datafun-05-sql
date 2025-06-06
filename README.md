@@ -46,23 +46,23 @@ git push -u origin main
     - `authors.csv`
     - `books.csv`
     - `db.sqlite`
-    - `project.sqlite3`
+    - `project.sqlite3`: database file
   - `logs`
     - `project_log.log`
   - `sql_create`
-    - `01_drop_tables.sql`
-    - `02_create_tables.sql`
-    - `03_insert_records.sql`
+    - `01_drop_tables.sql`: drops in the `books` and `authors` tables
+    - `02_create_tables.sql`: creates database schema using sql
+    - `03_insert_records.sql`: inserts records into each table
   - `sql_features`
-    - `delete_records.sql`
-    - `update_records.sql`
+    - `delete_records.sql`: use the DELETE statement to delete an existing record from the table
+    - `update_records.sql`: adds updates to the table
   - `sql_queries`
-    - `01_count_books_by_authors.sql`
-    - `query_aggregations.sql`
-    - `query_filter.sql`
-    - `query_group_by.sql`
-    - `query_join.sql`
-    - `query_sorting.sql`
+    - `01_count_books_by_authors.sql`: query to count the number of books written by each author
+    - `query_aggregations.sql`: using aggregate functions such as COUNT, AVG, and SUM
+    - `query_filter.sql`: using WHERE to filter data
+    - `query_group_by.sql`: using GROUP BY clause
+    - `query_join.sql`: using INNER JOIN to join records with matching values in both tables
+    - `query_sorting.sql`: using ORDER BY to sort data
   - `db01_setup.py`
   - `db02_features.py`
   - `db03_queries.py`
