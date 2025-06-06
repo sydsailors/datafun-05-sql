@@ -38,3 +38,33 @@ git add .
 git commit -m "custom message"
 git push -u origin main
 ```
+
+## Project Structure
+- Root folder: `datafun-05-sql`
+- Subfolders:
+  - `data`
+    - `authors.csv`
+    - `books.csv`
+    - `db.sqlite`
+    - `project.sqlite3`
+  - `logs`
+    - `project_log.log`
+  - `sql_create`
+    - `01_drop_tables.sql`
+    - `02_create_tables.sql`
+    - `03_insert_records.sql`
+  - `sql_features`
+    - `delete_records.sql`
+    - `update_records.sql`
+  - `sql_queries`
+    - `01_count_books_by_authors.sql`
+    - `query_aggregations.sql`
+    - `query_filter.sql`
+    - `query_group_by.sql`
+    - `query_join.sql`
+    - `query_sorting.sql`
+  - `db01_setup.py`
+  - `db02_features.py`
+  - `db03_queries.py`
+  - `utils_logger.py`
+
