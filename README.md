@@ -73,3 +73,9 @@ git push -u origin main
 ### Authors table
 ![alt text](image.png)
 
+### Books table
+![alt text](image-1.png)
+
+### Queries from `sql_queries` folder
+#### 01_count_books_by_authors.sql
+![alt text](image-2.png)
