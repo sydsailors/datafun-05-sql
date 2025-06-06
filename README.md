@@ -71,4 +71,5 @@ git push -u origin main
 ## Screenshots
 
 ### Authors table
-![Image of authors table](![alt text](image.png))
+![alt text](image.png)
+
