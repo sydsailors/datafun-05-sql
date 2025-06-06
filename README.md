@@ -71,7 +71,8 @@ git push -u origin main
 ## Screenshots
 
 ### Authors table
+![Image of authors table][def]
 
- ![Image of authors table](/Users/sydneysailors/Desktop/authors.png)
 
 
+[def]: /Users/sydneysailors/Desktop/authors.png
