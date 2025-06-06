@@ -73,3 +73,14 @@
 2025-06-05 22:28:13.130 | INFO     | __main__:execute_sql_file:27 - Executed: /Users/sydneysailors/datafun-05-sql/sql_queries/query_sorting.sql
 2025-06-05 22:28:13.130 | INFO     | __main__:main:58 - Feature queries execution completed successfully.
 2025-06-05 22:28:13.130 | INFO     | __main__:main:63 - Database connection closed.
+2025-06-05 22:36:08.985 | INFO     | utils_logger:<module>:41 - Logging to file: logs/project_log.log
+2025-06-05 22:36:08.986 | INFO     | __main__:main:36 - Starting feature queries execution...
+2025-06-05 22:36:08.988 | INFO     | __main__:main:52 - Connected to database: /Users/sydneysailors/datafun-05-sql/data/project.sqlite3
+2025-06-05 22:36:09.003 | INFO     | __main__:execute_sql_file:27 - Executed: /Users/sydneysailors/datafun-05-sql/sql_queries/01_count_books_by_authors.sql
+2025-06-05 22:36:09.004 | INFO     | __main__:execute_sql_file:27 - Executed: /Users/sydneysailors/datafun-05-sql/sql_queries/query_aggregation.sql
+2025-06-05 22:36:09.004 | INFO     | __main__:execute_sql_file:27 - Executed: /Users/sydneysailors/datafun-05-sql/sql_queries/query_filter.sql
+2025-06-05 22:36:09.005 | INFO     | __main__:execute_sql_file:27 - Executed: /Users/sydneysailors/datafun-05-sql/sql_queries/query_group_by.sql
+2025-06-05 22:36:09.005 | INFO     | __main__:execute_sql_file:27 - Executed: /Users/sydneysailors/datafun-05-sql/sql_queries/query_join.sql
+2025-06-05 22:36:09.005 | INFO     | __main__:execute_sql_file:27 - Executed: /Users/sydneysailors/datafun-05-sql/sql_queries/query_sorting.sql
+2025-06-05 22:36:09.005 | INFO     | __main__:main:58 - Feature queries execution completed successfully.
+2025-06-05 22:36:09.005 | INFO     | __main__:main:63 - Database connection closed.
