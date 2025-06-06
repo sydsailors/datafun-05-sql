@@ -79,3 +79,5 @@ git push -u origin main
 ### Queries from `sql_queries` folder
 #### 01_count_books_by_authors.sql
 ![alt text](image-2.png)
+
+#### query_aggregations.sql
