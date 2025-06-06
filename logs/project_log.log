@@ -84,3 +84,68 @@
 2025-06-05 22:36:09.005 | INFO     | __main__:execute_sql_file:27 - Executed: /Users/sydneysailors/datafun-05-sql/sql_queries/query_sorting.sql
 2025-06-05 22:36:09.005 | INFO     | __main__:main:58 - Feature queries execution completed successfully.
 2025-06-05 22:36:09.005 | INFO     | __main__:main:63 - Database connection closed.
+2025-06-05 22:50:35.923 | INFO     | utils_logger:<module>:41 - Logging to file: logs/project_log.log
+2025-06-05 22:50:35.924 | INFO     | __main__:main:36 - Starting feature queries execution...
+2025-06-05 22:50:35.926 | INFO     | __main__:main:52 - Connected to database: /Users/sydneysailors/datafun-05-sql/data/project.sqlite3
+2025-06-05 22:50:35.931 | INFO     | __main__:execute_sql_file:27 - Executed: /Users/sydneysailors/datafun-05-sql/sql_queries/01_count_books_by_authors.sql
+2025-06-05 22:50:35.933 | INFO     | __main__:execute_sql_file:27 - Executed: /Users/sydneysailors/datafun-05-sql/sql_queries/query_aggregation.sql
+2025-06-05 22:50:35.934 | INFO     | __main__:execute_sql_file:27 - Executed: /Users/sydneysailors/datafun-05-sql/sql_queries/query_filter.sql
+2025-06-05 22:50:35.935 | ERROR    | __main__:execute_sql_file:29 - Failed to execute /Users/sydneysailors/datafun-05-sql/sql_queries/query_group_by.sql: near "(": syntax error
+2025-06-05 22:50:35.935 | ERROR    | __main__:main:60 - Error during feature queries execution: near "(": syntax error
+2025-06-05 22:50:35.935 | INFO     | __main__:main:63 - Database connection closed.
+2025-06-05 22:51:29.023 | INFO     | utils_logger:<module>:41 - Logging to file: logs/project_log.log
+2025-06-05 22:51:29.024 | INFO     | __main__:main:36 - Starting feature queries execution...
+2025-06-05 22:51:29.030 | INFO     | __main__:main:52 - Connected to database: /Users/sydneysailors/datafun-05-sql/data/project.sqlite3
+2025-06-05 22:51:29.037 | INFO     | __main__:execute_sql_file:27 - Executed: /Users/sydneysailors/datafun-05-sql/sql_queries/01_count_books_by_authors.sql
+2025-06-05 22:51:29.040 | INFO     | __main__:execute_sql_file:27 - Executed: /Users/sydneysailors/datafun-05-sql/sql_queries/query_aggregation.sql
+2025-06-05 22:51:29.041 | INFO     | __main__:execute_sql_file:27 - Executed: /Users/sydneysailors/datafun-05-sql/sql_queries/query_filter.sql
+2025-06-05 22:51:29.041 | ERROR    | __main__:execute_sql_file:29 - Failed to execute /Users/sydneysailors/datafun-05-sql/sql_queries/query_group_by.sql: near "(": syntax error
+2025-06-05 22:51:29.042 | ERROR    | __main__:main:60 - Error during feature queries execution: near "(": syntax error
+2025-06-05 22:51:29.049 | INFO     | __main__:main:63 - Database connection closed.
+2025-06-05 22:54:38.643 | INFO     | utils_logger:<module>:41 - Logging to file: logs/project_log.log
+2025-06-05 22:54:38.644 | INFO     | __main__:main:36 - Starting feature queries execution...
+2025-06-05 22:54:38.647 | INFO     | __main__:main:52 - Connected to database: /Users/sydneysailors/datafun-05-sql/data/project.sqlite3
+2025-06-05 22:54:38.659 | INFO     | __main__:execute_sql_file:27 - Executed: /Users/sydneysailors/datafun-05-sql/sql_queries/01_count_books_by_authors.sql
+2025-06-05 22:54:38.660 | INFO     | __main__:execute_sql_file:27 - Executed: /Users/sydneysailors/datafun-05-sql/sql_queries/query_aggregation.sql
+2025-06-05 22:54:38.661 | INFO     | __main__:execute_sql_file:27 - Executed: /Users/sydneysailors/datafun-05-sql/sql_queries/query_filter.sql
+2025-06-05 22:54:38.662 | ERROR    | __main__:execute_sql_file:29 - Failed to execute /Users/sydneysailors/datafun-05-sql/sql_queries/query_group_by.sql: near ";": syntax error
+2025-06-05 22:54:38.662 | ERROR    | __main__:main:60 - Error during feature queries execution: near ";": syntax error
+2025-06-05 22:54:38.663 | INFO     | __main__:main:63 - Database connection closed.
+2025-06-05 22:55:04.567 | INFO     | utils_logger:<module>:41 - Logging to file: logs/project_log.log
+2025-06-05 22:55:04.568 | INFO     | __main__:main:36 - Starting feature queries execution...
+2025-06-05 22:55:04.573 | INFO     | __main__:main:52 - Connected to database: /Users/sydneysailors/datafun-05-sql/data/project.sqlite3
+2025-06-05 22:55:04.580 | INFO     | __main__:execute_sql_file:27 - Executed: /Users/sydneysailors/datafun-05-sql/sql_queries/01_count_books_by_authors.sql
+2025-06-05 22:55:04.582 | INFO     | __main__:execute_sql_file:27 - Executed: /Users/sydneysailors/datafun-05-sql/sql_queries/query_aggregation.sql
+2025-06-05 22:55:04.583 | INFO     | __main__:execute_sql_file:27 - Executed: /Users/sydneysailors/datafun-05-sql/sql_queries/query_filter.sql
+2025-06-05 22:55:04.584 | ERROR    | __main__:execute_sql_file:29 - Failed to execute /Users/sydneysailors/datafun-05-sql/sql_queries/query_group_by.sql: no such column: authors.author_name
+2025-06-05 22:55:04.584 | ERROR    | __main__:main:60 - Error during feature queries execution: no such column: authors.author_name
+2025-06-05 22:55:04.585 | INFO     | __main__:main:63 - Database connection closed.
+2025-06-05 22:55:29.495 | INFO     | utils_logger:<module>:41 - Logging to file: logs/project_log.log
+2025-06-05 22:55:29.496 | INFO     | __main__:main:36 - Starting feature queries execution...
+2025-06-05 22:55:29.506 | INFO     | __main__:main:52 - Connected to database: /Users/sydneysailors/datafun-05-sql/data/project.sqlite3
+2025-06-05 22:55:29.510 | INFO     | __main__:execute_sql_file:27 - Executed: /Users/sydneysailors/datafun-05-sql/sql_queries/01_count_books_by_authors.sql
+2025-06-05 22:55:29.513 | INFO     | __main__:execute_sql_file:27 - Executed: /Users/sydneysailors/datafun-05-sql/sql_queries/query_aggregation.sql
+2025-06-05 22:55:29.514 | INFO     | __main__:execute_sql_file:27 - Executed: /Users/sydneysailors/datafun-05-sql/sql_queries/query_filter.sql
+2025-06-05 22:55:29.521 | ERROR    | __main__:execute_sql_file:29 - Failed to execute /Users/sydneysailors/datafun-05-sql/sql_queries/query_group_by.sql: no such column: author
+2025-06-05 22:55:29.524 | ERROR    | __main__:main:60 - Error during feature queries execution: no such column: author
+2025-06-05 22:55:29.525 | INFO     | __main__:main:63 - Database connection closed.
+2025-06-05 22:56:15.957 | INFO     | utils_logger:<module>:41 - Logging to file: logs/project_log.log
+2025-06-05 22:56:15.958 | INFO     | __main__:main:36 - Starting feature queries execution...
+2025-06-05 22:56:15.960 | INFO     | __main__:main:52 - Connected to database: /Users/sydneysailors/datafun-05-sql/data/project.sqlite3
+2025-06-05 22:56:15.967 | INFO     | __main__:execute_sql_file:27 - Executed: /Users/sydneysailors/datafun-05-sql/sql_queries/01_count_books_by_authors.sql
+2025-06-05 22:56:15.969 | INFO     | __main__:execute_sql_file:27 - Executed: /Users/sydneysailors/datafun-05-sql/sql_queries/query_aggregation.sql
+2025-06-05 22:56:15.970 | INFO     | __main__:execute_sql_file:27 - Executed: /Users/sydneysailors/datafun-05-sql/sql_queries/query_filter.sql
+2025-06-05 22:56:15.971 | ERROR    | __main__:execute_sql_file:29 - Failed to execute /Users/sydneysailors/datafun-05-sql/sql_queries/query_group_by.sql: ambiguous column name: author_id
+2025-06-05 22:56:15.971 | ERROR    | __main__:main:60 - Error during feature queries execution: ambiguous column name: author_id
+2025-06-05 22:56:15.972 | INFO     | __main__:main:63 - Database connection closed.
+2025-06-05 23:02:25.063 | INFO     | utils_logger:<module>:41 - Logging to file: logs/project_log.log
+2025-06-05 23:02:25.064 | INFO     | __main__:main:36 - Starting feature queries execution...
+2025-06-05 23:02:25.070 | INFO     | __main__:main:52 - Connected to database: /Users/sydneysailors/datafun-05-sql/data/project.sqlite3
+2025-06-05 23:02:25.080 | INFO     | __main__:execute_sql_file:27 - Executed: /Users/sydneysailors/datafun-05-sql/sql_queries/01_count_books_by_authors.sql
+2025-06-05 23:02:25.082 | INFO     | __main__:execute_sql_file:27 - Executed: /Users/sydneysailors/datafun-05-sql/sql_queries/query_aggregation.sql
+2025-06-05 23:02:25.095 | INFO     | __main__:execute_sql_file:27 - Executed: /Users/sydneysailors/datafun-05-sql/sql_queries/query_filter.sql
+2025-06-05 23:02:25.098 | INFO     | __main__:execute_sql_file:27 - Executed: /Users/sydneysailors/datafun-05-sql/sql_queries/query_group_by.sql
+2025-06-05 23:02:25.099 | INFO     | __main__:execute_sql_file:27 - Executed: /Users/sydneysailors/datafun-05-sql/sql_queries/query_join.sql
+2025-06-05 23:02:25.099 | INFO     | __main__:execute_sql_file:27 - Executed: /Users/sydneysailors/datafun-05-sql/sql_queries/query_sorting.sql
+2025-06-05 23:02:25.116 | INFO     | __main__:main:58 - Feature queries execution completed successfully.
+2025-06-05 23:02:25.129 | INFO     | __main__:main:63 - Database connection closed.
