@@ -1,5 +1,5 @@
 """
-Use Python to execute feature queries from the sql_features folder.
+Use Python to execute  queries from the sql_queries folder.
 """
 
 # Imports from Python Standard Library
