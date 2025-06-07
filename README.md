@@ -78,7 +78,7 @@ git push -u origin main
 
 ### Queries from `sql_queries` folder
 #### 01_count_books_by_authors.sql
-![01_count_books_by_authors](image-2.png)
+![01_count_books_by_authors.sql](image-9.png)
 
 #### query_aggregations.sql
 ![query_aggregations.sql](image-3.png)
@@ -93,6 +93,6 @@ git push -u origin main
 ![query_join.sql](image-7.png)
 
 #### query_sorting.sql
-![query_sorting.sql](image-8.png)
+![query_sorting.sql](image.png)
 
 
