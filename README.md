@@ -75,25 +75,32 @@ git push -u origin main
 
 
 ### Books table
+<img width="1440" alt="books" src="https://github.com/user-attachments/assets/854c0c39-bc45-41be-a5ad-91018b9044f2" />
 
 
 ### Queries from `sql_queries` folder
 #### 01_count_books_by_authors.sql
+<img width="1440" alt="01_count_books_by_authors" src="https://github.com/user-attachments/assets/ab135482-950a-4944-a889-65d24587bfd2" />
 
 
 #### query_aggregations.sql
+<img width="1440" alt="query_aggregation" src="https://github.com/user-attachments/assets/cb38543f-4404-4c33-ba41-2e9c665bc658" />
 
 
 #### query_filter.sql
+<img width="1440" alt="query_filter" src="https://github.com/user-attachments/assets/c42b0cfe-4860-4fc4-9384-e1fee37db829" />
 
 
 #### query_group_by.sql
+<img width="1440" alt="query_group_by" src="https://github.com/user-attachments/assets/d5c3bfa8-4d17-421a-8717-6396742bee56" />
 
 
 #### query_join.sql
+<img width="1440" alt="query_join" src="https://github.com/user-attachments/assets/89fd174b-56b4-458d-b653-efddcdcd8160" />
 
 
 #### query_sorting.sql
+<img width="1440" alt="query_sorting" src="https://github.com/user-attachments/assets/798dad17-03d1-4190-8ed0-ef1c7031dd29" />
 
 
 
