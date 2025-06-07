@@ -71,6 +71,7 @@ git push -u origin main
 ## Screenshots
 
 ### Authors table
+<img width="1440" alt="authors" src="https://github.com/user-attachments/assets/55103d75-a8f9-4d60-bb6f-0890abb3a32a" />
 
 
 ### Books table
