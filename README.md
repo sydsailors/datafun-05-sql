@@ -71,13 +71,28 @@ git push -u origin main
 ## Screenshots
 
 ### Authors table
-![alt text](image.png)
+![Authors](image.png)
 
 ### Books table
-![alt text](image-1.png)
+![Books](image-1.png)
 
 ### Queries from `sql_queries` folder
 #### 01_count_books_by_authors.sql
-![alt text](image-2.png)
+![01_count_books_by_authors](image-2.png)
 
 #### query_aggregations.sql
+![query_aggregations.sql](image-3.png)
+
+#### query_filter.sql
+![query_filter.sql](image-5.png)
+
+#### query_group_by.sql
+![query_group_by.sql](image-6.png)
+
+#### query_join.sql
+![query_join.sql](image-7.png)
+
+#### query_sorting.sql
+![query_sorting.sql](image-8.png)
+
+
